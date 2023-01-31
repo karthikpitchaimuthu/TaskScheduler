@@ -1,3 +1,9 @@
+# This project uses React js for creating a task scheduler. 
+
+You can add, delete and update the tasks. 
+
+This project uses json db for mocking the database.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
